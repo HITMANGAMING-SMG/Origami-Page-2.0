@@ -1,0 +1,28 @@
+h1{
+    background-color : aqua;
+    color : black;
+    padding : 10px;
+    text-align: center;
+ }
+ 
+.links{
+    font-family: sans-serif;
+    display: flex;
+    justify-content : flex-end ;
+}
+.footer{
+    background-color : yellowgreen;
+    padding : 10px;
+}
+
+.matter{
+    background-color : yellow;
+    padding-left: 20px;
+}
+
+.handel{
+    padding-left: 10px;
+    padding-top: 10px ;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+}
